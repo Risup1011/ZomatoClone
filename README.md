@@ -1,3 +1,8 @@
+#Before start after npm i run these two command also after npm install
+
+npm i react-native-screens  
+npm i react-native-safe-area-context
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
